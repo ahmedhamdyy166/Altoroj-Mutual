@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/May/2024:17:18:30 +0200] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [05/May/2024:17:18:30 +0200] "GET /altoromutual/ HTTP/1.1" 404 761
+0:0:0:0:0:0:0:1 - - [05/May/2024:17:18:30 +0200] "GET /favicon.ico HTTP/1.1" 404 759
+0:0:0:0:0:0:0:1 - - [05/May/2024:17:23:19 +0200] "GET /altoromutual/ HTTP/1.1" 404 761
+0:0:0:0:0:0:0:1 - - [05/May/2024:17:23:20 +0200] "GET /altoromutual/ HTTP/1.1" 404 761
+0:0:0:0:0:0:0:1 - - [05/May/2024:17:27:17 +0200] "GET /altoromutual/WEB-INF/classes/com/ibm/security/appscan/altoromutual/api/AdminAPI.java HTTP/1.1" 404 832
